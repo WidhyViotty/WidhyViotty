@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Widhy</h1>
-<h3 align="center">Developpeur React</h3>
+<h3 align="center">Developpeur React/Node.js</h3>
 
-- 🔭 Je suis actuellement **en recherche de stage (6 mois)**
+- 🔭 Je suis actuellement **en stage chez Biborne**
 
 - 🌱 I’m currently learning **React.js**
 
